@@ -1,4 +1,4 @@
-[![MasterHead]]
+
 <h1 align="center">Hi 👋, I'm Matej Molnar</h1>
 
 
